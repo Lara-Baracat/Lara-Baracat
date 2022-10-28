@@ -1,7 +1,4 @@
-Oie 💖
 
-- 🔭 Estou atualmente aprendendo front-end
-- 🌱 
 
 <div align="center">
   <a href="https://github.com/Lara-Baracat">
