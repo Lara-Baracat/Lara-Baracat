@@ -1,5 +1,5 @@
 <h1> Hi, my name is Lara</h1>
-<h3>I'm curr study Javascript</h3>
+<h3>I'm currently study Javascript</h3>
 
 
 <div align="center">
