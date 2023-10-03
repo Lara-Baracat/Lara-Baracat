@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lara Baracat</h1>
 <h3 align="center">A Full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Compass-finalChallenge**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Jest and Serveless**
 
